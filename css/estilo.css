@@ -1,0 +1,47 @@
+
+h1 {
+    font-size: 3.7rem;
+    color: #000;
+    text-align: center;
+
+
+}
+.social-icons i {
+    font-size: 2rem;
+    color: #3b3b3b;
+}
+#id-element {
+    color: #000;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+* {
+    margin-left: auto;
+    margin-right: auto;
+    letter-spacing: 0.5px;
+    margin-bottom: 2.4 rem;
+    padding: 0.7rem;
+}
+.footer-content {
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 100;
+    letter-spacing: 3px;
+    margin-bottom: 3rem;
+}
+p {
+    margin: -5px;
+}
+footer {
+    width: 100%;
+    background-color: #000;
+}
+.footer-content-about {
+    color: aliceblue;
+    font-size: 20px;
+}
+element.style {
+    color: #000;
+}
+}
